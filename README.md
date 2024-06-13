@@ -10,4 +10,4 @@ Pandas and numpy will be used to answer the following questions, then visualizat
 3. Top 3 Continents with the highest deaths per 1M population
 4. Top 3 Continents with the highest Serious,Critical patients
 5. Distribution of Number of Deaths per 1M Population among Continents
-6. Total Cases per 1M population comparison between Europe and Asia
+6. Total Cases per 1M population comparison between Europe and South America
